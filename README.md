@@ -1,4 +1,4 @@
-## Hi, I'm Laia Navarro 👋
+## Hola, Soy Laia Navarro 👋
 
 Analista de datos en formación, con interés en el análisis de datos aplicado al ámbito sanitario y farmacéutico.
 
