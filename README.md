@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Laia Navarro 👋
 
-<!--
-**laianavarro7/laianavarro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst en formación, con interés en el análisis de datos aplicado al ámbito sanitario y farmacéutico.
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+- Estudiante de último curso del Grado en Ciencia de Datos en UNIR
+- Interesada en Data Analytics aplicado a salud y sector farmacéutico
+- Con conocimientos en Python, SQL, Machine Learning y visualización de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python · SQL · R · Machine Learning · Power BI · Tableau
+
+## ⚙️ Tecnologías y herramientas
+- Python, R, SQL
+- Pandas, NumPy, Scikit-learn
+- Power BI, Tableau
+- MySQL, MongoDB
+- Jupyter Notebook, RStudio
+
+## 🔭 Proyecto destacado
+- **TFG: Análisis de adherencia a tratamientos farmacológicos**
+  Proyecto de análisis de datos orientado a comprender el comportamiento de los pacientes, identificar patrones y apoyar estrategias de mejora en salud y marketing farmacéutico.
+
+## 📫 Contacto
+- LinkedIn: [linkedin.com/in/laianavarro7](https://linkedin.com/in/laianavarro7)
+- Email: laianavarro74@gmail.com
