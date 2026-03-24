@@ -1,13 +1,13 @@
 ## Hi, I'm Laia Navarro 👋
 
-Data Analyst en formación, con interés en el análisis de datos aplicado al ámbito sanitario y farmacéutico.
+Analista de datos en formación, con interés en el análisis de datos aplicado al ámbito sanitario y farmacéutico.
 
 ## 🧠 Sobre mí
 - Estudiante de último curso del Grado en Ciencia de Datos en UNIR
 - Interesada en Data Analytics aplicado a salud y sector farmacéutico
 - Con conocimientos en Python, SQL, Machine Learning y visualización de datos
 
-## 🛠️ Skills
+## 🛠️ Competencias
 Python · SQL · R · Machine Learning · Power BI · Tableau
 
 ## ⚙️ Tecnologías y herramientas
